@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning python and html 
 - 💞️ I’m looking to collaborate on GIS Software and  plugins development, Web Mapping 
 - 📫 How to reach me chipporuth01@gmail.com
-- 😄 Pronouns: Them
+- 😄 Pronouns: She/Her
 - ⚡ Fun fact: I have a podcast "Adulting with ChippoRuth" on all podcast platforms
 
 <!---
